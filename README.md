@@ -7,7 +7,7 @@
   <li>Библиотеки и циклы</li>
   <li>Условия</li>
   <li>Словари</li>
-  <li>Функции</li>
+  <li>Функции и менеджер контекста</li>
   <li>Tkinter</li>
   <li>Tkinter продолжение</li>
   <li>Requests + BeautifulSoup</li>
